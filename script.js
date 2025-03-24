@@ -32,7 +32,13 @@ document.addEventListener("DOMContentLoaded", function() {
         { en: "Solve", es: "Resolver" },
         { en: "Wiring closed", es: "Armario de cableado" },
         { en: "Backup router", es: "Enrutador de respaldo" },
-        { en: "Overall objetives", es: "Objetivos generales" }
+        { en: "Overall objetives", es: "Objetivos generales" },
+         { en: "Don't forget to submit", es: "No olvides enviar" },
+         { en: "Which", es: "Cual" },
+         { en: "Throughout", es: "Durante" },
+         { en: "Hint", es: "Pista" },
+         { en: "Stuck", es: "Atascado" },
+         { en: "Available", es: "Disponible" },
     ];
 
     let currentIndex = 0;
