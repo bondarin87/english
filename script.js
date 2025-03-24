@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const words = [
+   const words = [
         { en: "Server", es: "Servidor" },
         { en: "Database", es: "Base de datos" },
         { en: "Frontend", es: "Interfaz de usuario" },
@@ -9,7 +9,30 @@ document.addEventListener("DOMContentLoaded", function() {
         { en: "Deploy", es: "Desplegar" },
         { en: "Cache", es: "Caché" },
         { en: "Algorithm", es: "Algoritmo" },
-        { en: "Encryption", es: "Cifrado" }
+        { en: "Encryption", es: "Cifrado" },
+        { en: "Allows", es: "Permite" },
+        { en: "Within", es: "dentro" },
+        { en: "Let's you do", es: "Te permite hacer" },
+        { en: "Sample", es: "Muestra" },
+        { en: "Getting started", es: "Empezando" },
+        { en: "Some", es: "Alguna" },
+        { en: "Deploying", es: "Implementar" },
+        { en: "Beyond", es: "Mas alla de" },
+        { en: "Below", es: "Abajo" },
+        { en: "Provides", es: "Proporciona" },
+        { en: "Powering it on", es: "Encendiendolo" },
+        { en: "Powering it off", es: "Apagandolo" },
+        { en: "Such as", es: "Como" },
+        { en: "Way", es: "Forma, Manera" },
+        { en: "Same", es: "Misma" },
+        { en: "Knowledge", es: "Conocimiento" },
+        { en: "Were entered", es: "Se introdujeron" },
+        { en: "Durling the early portion", es: "Durante la primera parte" },
+        { en: "Tasks", es: "Tareas" },
+        { en: "Solve", es: "Resolver" },
+        { en: "Wiring closed", es: "Armario de cableado" },
+        { en: "Backup router", es: "Enrutador de respaldo" },
+        { en: "Overall objetives", es: "Objetivos generales" }
     ];
 
     let currentIndex = 0;
